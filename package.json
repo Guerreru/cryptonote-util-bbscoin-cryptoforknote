@@ -1,14 +1,14 @@
 {
-  "name": "cryptoforknote-util",
-  "version": "3.0.0",
-  "main": "cryptoforknote-util",
+  "name": "cryptonote-util-bbscoin",
+  "version": "1.0.6",
+  "main": "cryptonote",
   "author": {
     "name": "LucasJones",
     "email": "lucasjonesdev@hotmail.co.uk"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MoneroOcean/node-cryptoforknote-util.git"
+    "url": "https://github.com/bbscoincommunity/node-cryptonote-util-bbscoin.git"
   },
   "dependencies": {
     "bindings": "*",
@@ -17,6 +17,7 @@
   "keywords": [
     "cryptonight",
     "cryptonote",
+    "bbscoin",
     "forknote",
     "bytecoin",
     "monero"
